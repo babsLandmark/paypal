@@ -3,5 +3,5 @@ developing java apps,
 HEAD,
 .net applications ,
 NodeJS applications,
-web application
-bug removed
+web application,
+bug removed,
